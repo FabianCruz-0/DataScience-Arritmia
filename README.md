@@ -1,2 +1,2 @@
 # DataScience-Arritmia
-Proyecto de  ciencia de datos hecho con Python en Jupyter. Se estudian casos de problemas al corazón (arritmia).
+Proyecto de  ciencia de datos hecho con Python en Jupyter. Se estudian casos de problemas al corazón (arritmia) con un dataset de Ohio del sitio UCI (Center for Machine Learning and Intelligent Systems). [Ir al sitio web](https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
